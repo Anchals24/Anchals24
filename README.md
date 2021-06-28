@@ -2,10 +2,6 @@
 
 
 
-<!--
-**Anchals24/Anchals24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - I am a novice in coding who's consistently practicing codes everyday.
 - My primary coding language : Python.
