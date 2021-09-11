@@ -19,7 +19,7 @@
 
 <!-- ----------- CONNECT WITH ME SECTION ------------ -->
 
-![connect-with-me.png](./images/connect-with-me.png)
+![connect-with-me.png](./connect-with-me.png.png)
 
 
 <p align="center">
