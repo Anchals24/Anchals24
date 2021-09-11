@@ -23,7 +23,9 @@
 <a href="https://github.com/Anchals24">
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Anchals24&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Anchals24&layout=compact&langs_count=8&theme=algolia"/>
-  [![Anchal's github activity graph](https://activity-graph.herokuapp.com/graph?username=Anchals24&bg_color=000000&color=1fdbd8&line=ff5c5c&point=1adbce&area=true&hide_border=true)](https://github.com/anchals24/github-readme-activity-graph)
+  [![Aryamans's github activity graph](https://activity-graph.herokuapp.com/graph?username=Anchals24&bg_color=000000&color=1fdbd8&line=ff5c5c&point=1adbce&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<hr>
 
 </a>
 </p>
