@@ -10,3 +10,11 @@
 - I am looking forward to collaborate on Open-Source Projects.
 - I am just trying to impart my knowledge via repositories which will be quite helpful for BEGINNERS. 
 
+
+<p align="center">
+<a href="https://github.com/Anchals24">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Anchals24&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Anchals24&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
