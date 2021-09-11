@@ -9,11 +9,22 @@
 - I am looking forward to collaborate on Open-Source Projects.
 - I am just trying to impart my knowledge via repositories which will be quite helpful for BEGINNERS. 
 
+<!-- ----------- TECH STACK SECTION ------------ -->
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+<hr>
+
+<!-- ----------- TECH STACK SECTION END------------ -->
+
+
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
 <a href="https://github.com/Anchals24">
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Anchals24&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Anchals24&layout=compact&langs_count=8&theme=algolia"/>
+  [![Anchal's github activity graph](https://activity-graph.herokuapp.com/graph?username=Anchals24&bg_color=000000&color=1fdbd8&line=ff5c5c&point=1adbce&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </a>
 </p>
 
