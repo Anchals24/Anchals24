@@ -17,3 +17,25 @@
 </a>
 </p>
 
+<!-- ----------- CONNECT WITH ME SECTION ------------ -->
+
+![connect-with-me.png](./Connect with me.png)
+
+
+<p align="center">
+<a href="https://discordapp.com/users/Anchals24/" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Anchals24"/></a> <a href="https://www.linkedin.com/in/anchal-sharma-57a08714a/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Anchal_linkedIn"/></a> 
+<br>
+<br>
+<a href="https://twitter.com/Anchalsharma24" target="blank"><img src="https://img.shields.io/twitter/follow/Anchalsharma24?logo=twitter&style=for-the-badge" alt="Anchals24" /></a>
+</p>
+
+<hr>
+
+<!-- ----------- CONNECT WITH ME SECTION END ------------ -->
+
+
+[twitter]: https://twitter.com/Anchalsharma24
+[linkedin]: https://www.linkedin.com/in/anchal-sharma-57a08714a/
+[github]:https://github.com/Anchals24
+[gmail]:mailto:aanchalaws708@gmail.com
+
