@@ -4,11 +4,12 @@
 
 First of all, thanks for visiting my profile. Here, what you should know about me:
 
-- I am a self driven passionate coder who loves to solve problems and write efficient codes.
-- My primary coding language: Python.
-- I am happy to discuss about: Data Structures and Algorithms, Programming in Python/Java, Computer concepts(Operating Systems,Computer Networking,Databases), Cloud(AWS/GCP) and Linux.
-- I am looking forward to collaborate on Open-Source Projects.
-- I am just trying to impart my knowledge via repositories which will be quite helpful for those who codes in python. 
+👋 Hi, I'm Anchal Sharma!
+🔧 Self-driven and passionate coder with a love for solving problems and writing efficient code.
+💻 My tech stack revolves around Java, Spring Boot, Python, Django, Microservices, Kafka, MongoDB, and MySQL.
+💡 I'm always up for a deep dive into System Design (LLD + HLD), Data Structures, and core Computer Concepts.
+🤝 Always up to collaborate on Open-Source Projects and contribute to the community.
+📚 I share my knowledge about DSA, LLD and HLD through repositories aimed at helping Software developers.
 
 <!-- ----------- TECH STACK SECTION ------------ -->
 
